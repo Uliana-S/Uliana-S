@@ -1,4 +1,4 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jasougi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![jasougi's 42 stats](https://badge42.vercel.app/api/v2/cl2nfqd1y003509l6xm9y3ugq/stats?cursusId=21&coalitionId=91)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **Uliana-S/Uliana-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
